@@ -1,6 +1,6 @@
 #Awesome Page
 __Is this bold?__
-*Italics!*
+*Italcs!*
 ` fun_method.run(arguments) `
 (http://www.google.com)
 ![alt text](screenshot)
